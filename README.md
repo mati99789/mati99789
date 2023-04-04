@@ -9,11 +9,7 @@
 <div size='20px'> Hi, my name is Matteus and I am a mechanical engineer who wants to become a front end developer in the near future. Thank You for taking the time to view my GitHub Profile.
 </div>
 
-- 🔭 I’m currently working on Github Project
-
-- 🌱 I’m currently learning React 
-
-- 👯 I'm looking for a job as a front end developer! 
+- 🔭 I’m currently working at Accenture Polska as Front-end Developer(JavaScript, React, TypeScript)
 
 
 <h3 align="left">Languages and Tools:</h3>
