@@ -28,9 +28,9 @@ languages:
   swedish: "Conversational"
 
 background: |
-  Started as Mechanical Engineer, transitioned to Software through 
-  self-driven learning. Now combining 6 years of system thinking 
-  with 4.5 years of software craftsmanship at Accenture.
+  Built a foundation in Mechanical Engineering through formal studies, then transitioned into Software Engineering,
+  applying 6 years of systems thinking to 4.5 years of professional software development at Accenture.
+
 
 mentoring: |
   Former mentor at devmentor.pl (Frontend), helping junior developers 
