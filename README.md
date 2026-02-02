@@ -1,20 +1,227 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mateusz Urbaniak
-========================================================================================================================================
+<div align="center">
 
-Front-end Engineer| React & TypeScript Specialist 🚀 | Expanding to Full-Stack (Java, Golang)
---------------------------------------
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Software+Engineer;Fullstack+Developer;System+Designer)](https://git.io/typing-svg)
 
-🌟 Software Developer | React & TypeScript Enthusiast | Lifelong Learner 🌟 From the structured realm of Mechanical Engineering in Sweden to the dynamic universe of IT, my journey has been transformative. I discovered my passion for front-end development, where creating interfaces feels like casting spells with code. Each project adds clarity and innovation, mirroring my own growth. In this ever-evolving IT landscape, I thrive on continuous learning and adaptation. My background in engineering enriches my approach, as I replace nuts and bolts with code and creativity. Currently immersed in React and TypeScript, I'm also expanding my expertise into new programming languages. Join me in this thrilling adventure, where every line of code is a step towards mastery!
+**10+ Years Engineering Experience** | **Mechanical → Software** | 🇵🇱 🇬🇧 🇸🇪
 
-* 🌍  I'm based in Szczecin Poland
-* ✉️  You can contact me at [matteus.urbaniak@hotmail.com](mailto:matteus.urbaniak@hotmail.com)
-* 🚀  I'm currently working on [Accenture Poland](http://www.accenture.com/pl-pl)
-* 🧠  I'm learning Back-end ( Java & Node.js)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusz-urbaniak-133001117/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateusz.urbaniak@example.com)
 
-### Skills
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+</div>
+
+---
+
+## 🚀 About Me
+
+```yaml
+experience:
+  total: "10+ years"
+  mechanical_engineer: "6 years"
+  software_engineer: "4.5 years @ Accenture Poland"
+  
+current_role: "Frontend Engineer expanding to Fullstack"
+location: "Poland"
+
+languages:
+  polish: "Native"
+  english: "Fluent"
+  swedish: "Conversational"
+
+background: |
+  Started as Mechanical Engineer, transitioned to Software through 
+  self-driven learning. Now combining 6 years of system thinking 
+  with 4.5 years of software craftsmanship at Accenture.
+
+mentoring: |
+  Former mentor at devmentor.pl (Frontend), helping junior developers 
+  level up their skills through code reviews and pair programming.
+
+code_review: "Daily practice with team members - strict standards, constructive feedback"
+```
+
+---
+
+## 🔥 Featured Project
+
+### [GoTicket](https://github.com/mati99789/go-ticket) - Event Ticketing System
+
+> High-performance, scalable ticketing system built in Go. From Modular Monolith to Microservices.
+
+<div align="center">
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+**Architecture:** Clean Architecture (DDD) | **Concurrency:** 200 goroutines tested | **Coverage:** 95%
+
+```mermaid
+graph TD
+    User((User))
+    subgraph "GoTicket"
+        HTTP[API Layer]
+        subgraph "Domain Modules"
+            Mod_Event[Event Module]
+            Mod_Booking[Booking Module]
+        end
+        DB[(PostgreSQL)]
+    end
+    User --> HTTP
+    HTTP --> Mod_Event
+    HTTP --> Mod_Booking
+    Mod_Event --> DB
+    Mod_Booking --> DB
+```
+
+**Key Highlights:**
+- ✅ **Zero Race Conditions** - Verified with 200 concurrent booking attempts
+- ✅ **Atomic Reservations** - PostgreSQL row-level locking prevents double-booking
+- ✅ **Type-Safe SQL** - `sqlc` generates compile-time verified queries
+- ✅ **Real Integration Tests** - Testcontainers with actual Postgres, not mocks
+- ✅ **Production-Ready** - Graceful shutdown, structured logging, strict linting
+- ✅ **Clean Architecture** - Domain logic completely isolated from infrastructure
+
+**What I Learned:**
+- Domain-Driven Design in practice
+- Go concurrency patterns (`sync/atomic`, `WaitGroups`)
+- Database transaction isolation
+- Race condition detection & prevention
+- Repository pattern with testable abstractions
+
+---
+
+## 📚 What I'm Reading
+
+> *"The reading of all good books is like conversation with the finest minds of past centuries."* — René Descartes
+
+| Book | Author | Why It Matters |
+|------|--------|----------------|
+| **Designing Data-Intensive Applications** | Martin Kleppmann | The bible for backend engineers - understanding trade-offs in distributed systems |
+| **Clean Architecture** | Robert C. Martin | Applying SOLID principles in GoTicket's layered architecture |
+| **The Go Programming Language** | Donovan & Kernighan | Deep dive into Go's runtime, memory model, and idioms |
+| **System Design Interview** | Alex Xu | Preparing for large-scale system challenges |
+
+---
+
+## 🧠 How I Work
+
+### Not Vibe Coding: AI as Learning Accelerator
+
+I use AI tools to **accelerate understanding**, not to skip it:
+
+```
+❌ "Generate me a booking system in Go"
+✅ "Explain the trade-offs between optimistic and pessimistic locking 
+    in PostgreSQL for high-concurrency ticket reservations"
+```
+
+**My AI Workflow:**
+1. **Architecture Research** - "What are the patterns for handling concurrent reservations?"
+2. **Deep Dives** - "Explain Go's memory model and happens-before relationships"
+3. **Documentation** - "How does pgxpool implement connection pooling under the hood?"
+4. **Code Review** - "What are potential race conditions in this code?"
+
+**The Rule:** Every line of code must be justified. I don't copy-paste; I understand, adapt, and own the solution.
+
+### Engineering Principles
+
+- **"Why?" over "How?"** - Every technical decision must have a reason (why `pgx` over `database/sql`?)
+- **No Framework Magic** - Using `net/http` instead of Gin/Fiber to understand HTTP under the hood
+- **Production-First Mindset** - Graceful shutdown, observability, and error handling from day one
+- **Test-Driven Confidence** - Real integration tests with containers, not mocks
+
+---
+
+## 💻 Tech Stack
+
+### Frontend (4.5 Years Production Experience)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend (Growing Portfolio)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=TWÓJ_LOGIN&theme=cobalt)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TWÓJ_LOGIN&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+---
+
+## 🚀 Other Projects
+
+<div align="center">
+
+### Comming soon
 
 
-### Socials
+</div>
 
-<p align="left"> <a href="https://www.github.com/mati99789" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/mateusz-urbaniak-133001117" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+---
+
+## 🎯 6-Month Learning Roadmap
+
+```
+Q1 2026:
+├── AWS Solutions Architect certification
+├── Kubernetes fundamentals
+└── Terraform/OpenTofu for IaC
+
+Q2 2026:
+├── Advanced System Design
+├── Kafka/RabbitMQ (event-driven architecture)
+└── Production deployment of GoTicket to AWS
+```
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always open to interesting discussions about:
+- System design & architecture
+- Go best practices
+- Frontend performance optimization
+- AI-assisted learning strategies
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusz-urbaniak-133001117/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matteus.urbaniak@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mati99789)
+
+</div>
+
+---
+
+<div align="center">
+
+**Built with ❤️ and strict engineering principles**
+
+*"From mechanical systems to software systems - the principles of good engineering remain the same."*
+
+</div>
