@@ -165,9 +165,9 @@ I use AI tools to **accelerate understanding**, not to skip it:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TWÓJ_LOGIN&theme=cobalt)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mati99789&theme=cobalt)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TWÓJ_LOGIN&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mati99789&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
