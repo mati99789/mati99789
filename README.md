@@ -55,6 +55,12 @@ code_review: "Daily practice with team members - strict standards, constructive 
 
 </div>
 
+## 🏆 Achievements
+
+- 95% test coverage in GoTicket  
+- 200 concurrent booking tests passed without race conditions  
+- Mentored junior developers at devmentor.pl  
+
 **Architecture:** Clean Architecture (DDD) | **Concurrency:** 200 goroutines tested | **Coverage:** 95%
 
 ```mermaid
@@ -164,14 +170,10 @@ I use AI tools to **accelerate understanding**, not to skip it:
 ## 📊 GitHub Stats
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mati99789&theme=cobalt)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mati99789&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=mati99789&theme=cobalt&hide_border=true" width="48%" />
 </div>
 
----
+
 
 ## 🚀 Other Projects
 
@@ -198,30 +200,27 @@ Q2 2026:
 └── Production deployment of GoTicket to AWS
 ```
 
----
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-I'm always open to interesting discussions about:
-- System design & architecture
-- Go best practices
-- Frontend performance optimization
-- AI-assisted learning strategies
+I'm always open to discussions about:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusz-urbaniak-133001117/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matteus.urbaniak@hotmail.com)
+- System design & architecture  
+- Go best practices  
+- Frontend performance  
+- AI-assisted engineering  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusz-urbaniak-133001117/)  
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matteus.urbaniak@hotmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mati99789)
 
-</div>
-
----
-
-<div align="center">
+<br/>
 
 **Built with ❤️ and strict engineering principles**
 
-*"From mechanical systems to software systems - the principles of good engineering remain the same."*
+> *"From mechanical systems to software systems — the principles of good engineering remain the same."*
 
 </div>
+
